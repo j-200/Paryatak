@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../prg.c"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../prg.java"
+		}
+	],
+	"settings": {}
+}
